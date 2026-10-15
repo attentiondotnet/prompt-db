@@ -1,0 +1,21 @@
+README.md
+  s_a40033b6f018f6::t_c38e00fa223ce4 1-31
+SKILL.md
+  s_a40033b6f018f6::t_c179a6f26bb18a 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "390c116ee90864a6353afc81eedefc8d812454dc",
+  "prompts": {},
+  "sessions": {
+    "s_a40033b6f018f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f9c6c757-2f71-4d28-9577-76bc0acf84c1",
+        "model": "unknown"
+      },
+      "human_author": "William K <bill@attention.net>"
+    }
+  }
+}
